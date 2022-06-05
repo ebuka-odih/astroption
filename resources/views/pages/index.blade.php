@@ -59,7 +59,7 @@
                 <div class="col-md-5 col-sm-5 shop_info wow fadeInRight" data-wow-delay="400ms">
                     <h2 style="color:#333" class="heading bottom25"><span>BUY</span>/&nbsp; SELL<span class="divider-left"></span></h2>
                     <h4 class="price_product" style="color:#000">Trading the easy way</h4>
-                    <p style="font-size:22px; color:#333" class="margin10">Whether you are a beginner or a veteran Forex/CFD trader, the best way to familiarise yourself with our platform is to open an account also known as register or signup. Use the account completely free of cost to practice coinforexbtc.com under real market conditions; trade with bitcoin and gain confidence with us.</p>
+                    <p style="font-size:22px; color:#333" class="margin10">Whether you are a beginner or a veteran Forex/CFD trader, the best way to familiarise yourself with our platform is to open an account also known as register or signup. Use the account completely free of cost to practice Astroption under real market conditions; trade with bitcoin and gain confidence with us.</p>
                     <div class="quote bottom25">
 
                         <a href="app/indexcca3.html?a=signup" class="btn_common yellow border_radius">Open account</a>

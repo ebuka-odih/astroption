@@ -286,8 +286,8 @@
                 <h3 class="heading bottom25">Keep in Touch <span class="divider-left"></span></h3>
                 <p class=" address">Registration number<strong><a style="text-decoration:underline" href="images/299881.pdf"> 299881</a></strong></p>
                 <p class=" address"><i class="icon-map-pin"></i>32108 16414 SAN PEDRO, SUITE 930, SAN ANTONIO, TX 78232</p>
-                <p class=" address"><i class="icon-phone"></i>+14708487828</p>
-                <p class=" address"><i class="icon-envelope"></i><a href="mailto:support@coinforexbtc.com">admin@coinforexbtc.com</a></p>
+                <p class=" address"><i class="icon-phone"></i>+35795522426</p>
+                <p class=" address"><i class="icon-envelope"></i><a href="mailto:support@coinforexbtc.com">admin@astroption.com</a></p>
                 <img src="{{ asset('front/images/footer-map.png') }}" alt="we are here" class="img-responsive">
             </div>
         </div>

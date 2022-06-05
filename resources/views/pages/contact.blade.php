@@ -35,7 +35,7 @@
                 <div class="address">
                     <i class="icon icon-phone4 border_radius"></i>
                     <h4>Call Us</h4>
-                    <p>+1470848782</p>
+                    <p>+35795522426</p>
                 </div>
             </div>
             <div class="col-md-8 wow fadeInRight" data-wow-delay="4500ms">
