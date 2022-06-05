@@ -290,10 +290,10 @@
                     <div style="width:100%; height:200px; background-image:url(front/images/stock.html); background-position:center; margin-bottom:60px; background-repeat:no-repeat"></div>
                 </center>
                 <div class="col-md-5 wow fadeInLeft" data-wow-delay="300ms">
-                    <h2 style="color:#FFFFFF" class="heading heading_space"><span style="color:#FFFFFF">Welcome </span>to coinforexbtc.com <span class="divider-left"></span></h2>
+                    <h2 style="color:#FFFFFF" class="heading heading_space"><span style="color:#FFFFFF">Welcome </span>to astroption.com <span class="divider-left"></span></h2>
 
 
-                    <h4 style="color:#FFFFFF" class="bottom25">Register with coinforexbtc.com today and start discovering a wide variety of benefits CDF on web platform: </h4>
+                    <h4 style="color:#FFFFFF" class="bottom25">Register with astroption.com today and start discovering a wide variety of benefits CDF on web platform: </h4>
                     <p style="color:#FFFFFF" class="bottom25">We have 2,000+ financial instruments across various classes, such as stocks, crypto and more.</p>
                     <p style="color:#FFFFFF" class="bottom25">Additionally, to enable traders and investors direct access to our market, some asset classes, such as stocks and cryptoassets, offer direct ownership of the underlying assets, which we buy and hold in each client’s name.</p>
 
@@ -324,8 +324,8 @@
                     <p class="pricing_sentence" style="color:#099; border-bottom:dotted 1px #00FF33">Our parents company, GAIN Capital Holdings, Inc. </p>
                     <ul style="font-size:17px; color:#FFF" class="pricing_list">
                         <li class="pricing_feature">Bitcoin investment</li>
-                        <li class="pricing_feature">Cdf coinforexbtc.com</li>
-                        <li class="pricing_feature">Stock coinforexbtc.com</li>
+                        <li class="pricing_feature">Cdf astroption.com</li>
+                        <li class="pricing_feature">Stock astroption.com</li>
                         <li class="pricing_feature">Binary option </li>
                         <li class="pricing_feature">FX prediction</li>
                     </ul>
@@ -382,10 +382,10 @@
                     </div>
                     <!-- TradingView Widget END -->
 
-                    Welcome to Open API. Here you'll find all the documentation you need to help you create revolutionary new services and applications into your business, powered by the https://coinforexbtc.com Platform. With your ingenuity, together we can serve the needs of individuals and organizations across the globe and change the financial services ecosystem forever to start using our API send us an email describing how you want our API configured for you. </p>
+                    Welcome to Open API. Here you'll find all the documentation you need to help you create revolutionary new services and applications into your business, powered by the https://astroption.com Platform. With your ingenuity, together we can serve the needs of individuals and organizations across the globe and change the financial services ecosystem forever to start using our API send us an email describing how you want our API configured for you. </p>
                     <div class="quote bottom25">
 
-                        <a href="mailto:support@coinforexbtc.com" class="btn_common yellow border_radius">REQUEST API</a>
+                        <a href="mailto:support@astroption.com" class="btn_common yellow border_radius">REQUEST API</a>
                     </div>
 
 
@@ -446,7 +446,7 @@
 
                 <p style="font-size:20px" class="review_text">We've been proud to connect independent traders to the potential of the global currency markets since we started. Today, we continue to challenge ourselves to provide traders with what they need to succeed. </p>
                 <br>
-                <h4>Global market Leaders of coinforexbtc.com</h4>
+                <h4>Global market Leaders of astroption.com</h4>
 
                 <center>
                     <a style="background-color:#00CC33" href="indexe47ee47e.html?a=about" class="border_radius btn_common white_border">Learn more</a>
@@ -479,7 +479,7 @@
                     <div id="review_slider" class="owl-carousel text-center">
                         <div class="item">
                             <img src="{{ asset('front/images/customer1.png') }}" class="client_pic border_radius" alt="costomer">
-                            <p class="review_text">I've been happy with the services provided by https://coinforexbtc.com service london.i was introduced by a work mate at my work place and i can tell you i have never made such cashout in my entire life. https://coinforexbtc.com has show they are the expert in the field</p>
+                            <p class="review_text">I've been happy with the services provided by https://astroption.com service london.i was introduced by a work mate at my work place and i can tell you i have never made such cashout in my entire life. https://astroption.com has show they are the expert in the field</p>
                             <h4>John Smith</h4>
                             <p>Direct investor</p>
                         </div>
@@ -491,7 +491,7 @@
                         </div>
                         <div class="item">
                             <img src="{{ asset('front/images/customer3.png') }}" class="client_pic border_radius" alt="costomer">
-                            <p class="review_text">Now i make more with https://coinforexbtc.com than in my work place, i had to stop working for people where i get $1500/month. now i can cashout over $499.5,000 every 36 Hours, try and see </p>
+                            <p class="review_text">Now i make more with https://astroption.com than in my work place, i had to stop working for people where i get $1500/month. now i can cashout over $499.5,000 every 36 Hours, try and see </p>
                             <h4>Robert Jhon</h4>
                             <p>Ditect Investor</p>
                         </div>
