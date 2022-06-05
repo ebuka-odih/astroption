@@ -194,6 +194,7 @@
                             </ul>
                         </div>
                     @endif
+                    <input type="hidden" name="referred_by" value="{{ request()->id}}" />
 
                     <div class="form-group">
                         <div class="input-box2">
