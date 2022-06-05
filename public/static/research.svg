@@ -1,0 +1,41 @@
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="wrapper" transform="translate(200 200)">
+    <g id="Group-Outer-Circle">
+      <circle id="Outer-Circle" fill="#1C2F46" fill-opacity="0" stroke="#334256" stroke-width="13" cx="0" cy="0" r="150"></circle>
+    </g>
+    <g id="Group-Liquid-Markets" transform="translate(150 0)">
+      <circle id="Circle-Liquid-Markets" stroke="#1C2F46" stroke-width="12" fill="#02BBE7" fill-rule="nonzero" cx="0" cy="0" r="50"></circle>
+      <text id="Macro" text-anchor="middle" font-family="Open Sans, system-ui, sans-serif" font-size="13" font-weight="normal" letter-spacing="0.2708333" fill="#FFFFFF">
+        <tspan x="0" y="-4">Liquid</tspan>
+        <tspan x="0" y="12">Markets</tspan>
+      </text>
+    </g>
+    <g id="Group-Macro" transform="translate(0 -150)">
+      <circle id="Circle-Macro" stroke="#1C2F46" stroke-width="12" fill="#02BBE7" fill-rule="nonzero" cx="0" cy="0" r="50"></circle>
+      <text id="Macro" text-anchor="middle" font-family="Open Sans, system-ui, sans-serif" font-size="13" font-weight="normal" letter-spacing="0.2708333" fill="#FFFFFF">
+        <tspan x="0" y="6">Macro</tspan>
+      </text>
+    </g>
+    <g id="Group-Illiquid-Markets" transform="translate(-150 0)">
+      <circle id="Circle-Illiquid-Markets" stroke="#1C2F46" stroke-width="12" fill="#02BBE7" fill-rule="nonzero" cx="0" cy="0" r="50"></circle>
+      <text id="Illiquid-Makets" text-anchor="middle" font-family="Open Sans, system-ui, sans-serif" font-size="13" font-weight="normal" letter-spacing="0.2708333" fill="#FFFFFF">
+        <tspan x="0" y="-4">Illiquid</tspan>
+        <tspan x="0" y="12">Markets</tspan>
+      </text>
+    </g>
+    <g id="Group-Protocol-Ecosystem" transform="translate(0 150)">
+      <circle id="Circle-Protocol-Ecosystem" stroke="#1C2F46" stroke-width="12" fill="#02BBE7" fill-rule="nonzero" cx="0" cy="0" r="50"></circle>
+      <text id="Protocol-Ecosystem" text-anchor="middle" font-family="Open Sans, system-ui, sans-serif" font-size="13" font-weight="normal" letter-spacing="0.2708333" fill="#FFFFFF">
+        <tspan x="0" y="-4">Protocol &amp;</tspan>
+        <tspan x="0" y="12">Ecosystem</tspan>
+      </text>
+    </g>
+    <g id="Center">
+      <circle id="Circle-Center" stroke-width="0" fill="#FFFFFF" fill-rule="nonzero" cx="0" cy="0" r="90"></circle>
+      <text id="Center-Text" text-anchor="middle" font-family="Merriweather-Light, Merriweather" font-size="18" font-weight="300" line-spacing="30" letter-spacing="-0.25" fill="#1C2F46">
+        <tspan x="0" y="-10">Galaxy Digital</tspan>
+        <tspan x="0" y="20">Global Research</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
