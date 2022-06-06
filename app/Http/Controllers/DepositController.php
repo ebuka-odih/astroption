@@ -47,7 +47,7 @@ class DepositController extends Controller
         $deposit_detail = Deposit::whereUserId(auth()->id())->findOrFail($id);
         $investment_plan = InvestmentPlan::findOrFail($deposit_detail->investment_plans_id);
         $user = User::findOrFail($deposit_detail->user_id);
-        $expected_profit = $investment_plan->total_return  * $deposit_detail->amount;
+        $expected_profit = $investment_plan->total_return()  * $deposit_detail->amount;
         $profit =  number_format((float)$expected_profit / 100, 2, '.', '');
 
         $expected_percent = $investment_plan->daily_interest  * $deposit_detail->amount;
