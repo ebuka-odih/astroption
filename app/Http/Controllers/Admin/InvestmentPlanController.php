@@ -92,7 +92,7 @@ class InvestmentPlanController extends Controller
             'min_deposit' => 'required',
             'max_deposit' => 'required',
             'deposit_return' => 'required',
-            'total_return' => 'required',
+            'total_return' => 'nullable',
         ]);
 
         $investplan->update($request->all());
@@ -100,7 +100,7 @@ class InvestmentPlanController extends Controller
             ->with('success', 'Investment Plan Updated successfully');
     }
 
-  
+
     public function destroy($id)
     {
         $investplan = InvestmentPlan::findOrFail($id);
@@ -117,7 +117,7 @@ class InvestmentPlanController extends Controller
             'min_deposit' => 'required',
             'max_deposit' => 'required',
             'deposit_return' => 'required',
-            'total_return' => 'required',
+            'total_return' => 'nullable',
         ];
         return $request->validate($rules);
     }
