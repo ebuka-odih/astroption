@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                     <th>TOTAL PROFIT (%):</th>
-                    <td colspan="2">{{ optional($deposit_detail->investment_plan)->total_return }}(%)</td>
+                    <td colspan="2">{{ optional($deposit_detail->investment_plan)->total_return() }}(%)</td>
                 </tr>
                 <tr>
                     <th>STATUS:</th>
@@ -111,7 +111,7 @@
                 </tr>
                 <tr>
                     <th>INVESTMENT TOTAL PROFIT:</th>
-                    <td colspan="2">{{ optional($deposit_detail->investment_plan)->total_return }}(%)</td>
+                    <td colspan="2">{{ optional($deposit_detail->investment_plan)->total_return() }}(%)</td>
                 </tr>
                 <tr>
                     <th>TRANSACTION STATUS:</th>
