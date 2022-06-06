@@ -36,6 +36,15 @@
 
 <form action="{{ route('investment-plans.store') }}" method="POST">
     @csrf
+    @if ($errors->any())
+        <div class="alert alert-danger">
+            <ul>
+                @foreach ($errors->all() as $error)
+                    <li>{{ $error }}</li>
+                @endforeach
+            </ul>
+        </div>
+    @endif
     <div class="row g-4">
         <div class="col-lg-6">
             <div class="form-group">
