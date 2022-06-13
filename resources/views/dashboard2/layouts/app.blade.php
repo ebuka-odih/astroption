@@ -228,7 +228,7 @@
     <script src="{{ asset('front/asset/dashboard/vendor/datatables.net-select/js/dataTables.select.min.js') }}"></script>
     <script src="{{ asset('front/asset/dashboard/vendor/clipboard/dist/clipboard.min.js') }}"></script>
     <!-- Argon JS -->
-    <script src="https://boomchart.net/bitmine/asset/dashboard/js/argon.js?v=1.1.0"></script>
+{{--    <script src="https://boomchart.net/bitmine/asset/dashboard/js/argon.js?v=1.1.0"></script>--}}
     <!-- Demo JS - remove this in your project -->
     <script src="{{ asset('front/asset/dashboard/js/demo.min.js') }}"></script>
     <script src="{{ asset('front/asset/frontend/js/sweetalert.js') }}"></script>
