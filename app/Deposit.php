@@ -24,7 +24,7 @@ class Deposit extends Model
     public function getEndDateAttribute()
     {
         $date = Carbon::parse($this->approved_date);
-        return $date->addDays($this->investment_plan->term_days - 1);
+        return $date->addDays(optional($this->investment_plan)->term_days - 1);
 //        return $date + $this->investment_plan->term_days;
     }
 
@@ -103,7 +103,7 @@ class Deposit extends Model
     public function ending_date()
     {
         $date = Carbon::parse($this->approved_date);
-        return $date->addDays($this->investment_plan->term_days - 1);
+        return $date->addDays(optional($this->investment_plan)->term_days - 1);
 //        return $date + $this->investment_plan->term_days;
     }
 
