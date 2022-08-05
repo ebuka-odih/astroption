@@ -3,7 +3,7 @@
 <html class="no-js" lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <base href="https://boomchart.net/bitmine"/>
-    <title>{{ env('APP_NAME') }}</title>
+{{--    <title>{{ env('APP_NAME') }}</title>--}}
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
@@ -16,7 +16,7 @@
     <link rel="apple-touch-icon" href="{{ asset('front/asset/images/logo_1588143489.png') }}" />
     <link rel="apple-touch-icon" sizes="72x72" href="https://boomchart.net/bitmine/asset/images/favicon_1582498359.jpg" />
     <link rel="apple-touch-icon" sizes="114x114" href="https://boomchart.net/bitmine/asset/images/favicon_1582498359.jpg" />
-    <link rel="stylesheet" href="https://boomchart.net/bitmine/asset/css/sweetalert.css" type="text/css">
+{{--    <link rel="stylesheet" href="https://boomchart.net/bitmine/asset/css/sweetalert.css" type="text/css">--}}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,600,700&display=swap">
     <link rel="stylesheet" href="{{ asset('front/asset/dashboard/vendor/datatables.net-bs4/css/dataTables.bootstrap4.min.css') }}">
     <link rel="stylesheet" href="{{ asset('front/asset/dashboard/vendor/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css') }}">
@@ -40,7 +40,8 @@
         <!-- Brand -->
         <div class="sidenav-header d-flex align-items-center">
             <a class="navbar-brand" href="{{ route('homepage') }}">
-                <img src="{{ asset('assets/logo.png') }}" class="navbar-brand-img" alt="...">
+                <h3 style="font-weight: bolder; color: white">Astro Option</h3>
+{{--                <img src="{{ asset('assets/logo.png') }}" class="navbar-brand-img" alt="...">--}}
             </a>
             <div class="ml-auto">
                 <!-- Sidenav toggler -->
@@ -227,6 +228,8 @@
     <script src="{{ asset('front/asset/dashboard/vendor/datatables.net-buttons/js/buttons.print.min.js') }}"></script>
     <script src="{{ asset('front/asset/dashboard/vendor/datatables.net-select/js/dataTables.select.min.js') }}"></script>
     <script src="{{ asset('front/asset/dashboard/vendor/clipboard/dist/clipboard.min.js') }}"></script>
+    <script src="{{ asset('js/argon.js?v=1.1.0') }}"></script>
+
     <!-- Argon JS -->
 {{--    <script src="https://boomchart.net/bitmine/asset/dashboard/js/argon.js?v=1.1.0"></script>--}}
     <!-- Demo JS - remove this in your project -->
